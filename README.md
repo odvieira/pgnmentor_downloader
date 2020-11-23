@@ -6,6 +6,6 @@ This is a basic script to retrieve and concatenate all pgn files available in th
   - Curl
   - Bash
 
-To run the scritpt you basicly has to execute the interpreter:
+To run the scritpt you only need to execute the script (downloader.bash) with the Bash interpreter:
 
 `$ bash downloader.bash `
