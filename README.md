@@ -7,4 +7,4 @@ This is a basic script to retrieve and concatenate all pgn files available in th
   - Bash
 
 To run the scritpt you basicly has to execute the interpreter:
-``` bash downloader.bash ```
+``$ bash downloader.bash ``
